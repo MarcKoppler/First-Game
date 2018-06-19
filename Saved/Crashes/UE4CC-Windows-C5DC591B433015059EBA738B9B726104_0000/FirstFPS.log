@@ -1,0 +1,782 @@
+﻿Log file open, 06/19/18 13:58:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FirstFPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-999895968) SRandInit(-999895968).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293135
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.377s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-3Q2M6I3 (192.168.56.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.19-11.58.05:423][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.19-11.58.05:423][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.19-11.58.05:498][  0]LogInit: Computer: DESKTOP-3Q2M6I3
+[2018.06.19-11.58.05:498][  0]LogInit: User: deads
+[2018.06.19-11.58.05:498][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.19-11.58.05:498][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2018.06.19-11.58.05:498][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.06.19-11.58.05:498][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.19-11.58.05:498][  0]LogMemory: Process Physical Memory: 274.36 MB used, 274.36 MB peak
+[2018.06.19-11.58.05:498][  0]LogMemory: Process Virtual Memory: 264.61 MB used, 264.61 MB peak
+[2018.06.19-11.58.05:498][  0]LogMemory: Physical Memory: 6233.79 MB used,  5953.82 MB free, 12187.60 MB total
+[2018.06.19-11.58.05:498][  0]LogMemory: Virtual Memory: 659.79 MB used,  5953.82 MB free, 134217728.00 MB total
+[2018.06.19-11.58.05:518][  0]LogInit: Using OS detected language (de-DE).
+[2018.06.19-11.58.05:518][  0]LogInit: Using OS detected locale (de-DE).
+[2018.06.19-11.58.05:522][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.06.19-11.58.06:081][  0]LogStreaming: Display: Took  0.563s to EndInitTextLocalization.
+[2018.06.19-11.58.06:081][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.19-11.58.06:120][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.19-11.58.06:120][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.19-11.58.06:345][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.19-11.58.06:410][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.06.19-11.58.06:410][  0]LogD3D11RHI:       3038/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.19-11.58.06:423][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.06.19-11.58.06:423][  0]LogD3D11RHI:       128/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.19-11.58.06:425][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.19-11.58.06:425][  0]LogD3D11RHI:       0/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.19-11.58.06:428][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.19-11.58.06:428][  0]LogD3D11RHI:       0/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.19-11.58.06:428][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.19-11.58.06:439][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.19-11.58.06:440][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.19-11.58.06:440][  0]LogWindows: EnumDisplayDevices:
+[2018.06.19-11.58.06:440][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.06.19-11.58.06:440][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.06.19-11.58.06:440][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.06.19-11.58.06:440][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2018.06.19-11.58.06:441][  0]LogWindows:    4. 'iDisplay (Microsoft Corporation - WDDM v1.1)' (P:0 D:0)
+[2018.06.19-11.58.06:441][  0]LogWindows:    5. 'iDisplay (Microsoft Corporation - WDDM v1.1)' (P:0 D:0)
+[2018.06.19-11.58.06:441][  0]LogWindows:    6. 'iDisplay (Microsoft Corporation - WDDM v1.1)' (P:0 D:0)
+[2018.06.19-11.58.06:441][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2018.06.19-11.58.06:442][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.06.19-11.58.06:442][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2018.06.19-11.58.06:442][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2018.06.19-11.58.06:442][  0]LogRHI: Texture pool is 2127 MB (70% of 3038 MB)
+[2018.06.19-11.58.06:500][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.19-11.58.06:501][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.19-11.58.06:501][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.19-11.58.06:704][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.19-11.58.06:705][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Intermediate/Shaders/WorkingDirectory/18900/).
+[2018.06.19-11.58.06:705][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/deads/AppData/Local/Temp/UnrealShaderWorkingDir/58DDBF6E46018371ADC36994FB40B0BC/'.
+[2018.06.19-11.58.06:974][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.19-11.58.06:995][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.19-11.58.07:013][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.19-11.58.07:033][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.19-11.58.07:053][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.19-11.58.07:071][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.19-11.58.07:092][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.19-11.58.07:111][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.19-11.58.07:120][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.19-11.58.07:138][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.19-11.58.07:155][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.19-11.58.07:171][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.19-11.58.07:192][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.19-11.58.07:212][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.19-11.58.07:232][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.19-11.58.07:271][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.19-11.58.07:271][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.19-11.58.07:295][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.19-11.58.07:296][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.19-11.58.07:339][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.19-11.58.07:356][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.19-11.58.07:377][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.19-11.58.07:395][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.19-11.58.07:411][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.19-11.58.07:428][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.19-11.58.07:428][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.19-11.58.07:586][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.19-11.58.07:586][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.19-11.58.07:586][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.19-11.58.08:523][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.19-11.58.08:649][  0]LogDerivedDataCache: Loaded boot cache 0.13s 74MB C:/Users/deads/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.19-11.58.08:649][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/deads/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.19-11.58.08:649][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.19-11.58.08:649][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.19-11.58.08:649][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.19-11.58.08:649][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.19-11.58.08:669][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.19-11.58.08:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/deads/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.19-11.58.08:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.19-11.58.08:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.19-11.58.08:697][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.19-11.58.08:697][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.19-11.58.08:697][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.19-11.58.08:697][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.19-11.58.08:837][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2018.06.19-11.58.09:248][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.19-11.58.09:334][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.19-11.58.09:338][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.19-11.58.09:339][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.19-11.58.09:339][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.19-11.58.09:339][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.19-11.58.09:339][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.19-11.58.09:478][  0]LogNetVersion: FirstFPS , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2294250528)
+[2018.06.19-11.58.10:529][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.508740 seconds
+[2018.06.19-11.58.10:537][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.19-11.58.10:538][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.19-11.58.10:538][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.19-11.58.12:573][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.19-11.58.12:610][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.19-11.58.13:026][  0]SourceControl: Source control is disabled
+[2018.06.19-11.58.13:026][  0]SourceControl: Source control is disabled
+[2018.06.19-11.58.13:049][  0]SourceControl: Source control is disabled
+[2018.06.19-11.58.13:071][  0]SourceControl: Source control is disabled
+[2018.06.19-11.58.13:621][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.19-11.58.13:823][  0]LogOcInput: OculusInput pre-init called
+[2018.06.19-11.58.13:956][  0]LogEngine: Initializing Engine...
+[2018.06.19-11.58.13:957][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.06.19-11.58.13:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.19-11.58.13:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.19-11.58.14:271][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.19-11.58.14:308][  0]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.19-11.58.14:322][  0]LogInit: FAudioDevice initialized.
+[2018.06.19-11.58.14:457][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/deads/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.19-11.58.14:488][  0]LogInit: Texture streaming: Enabled
+[2018.06.19-11.58.14:513][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.19-11.58.14:548][  0]LogInit: Transaction tracking system initialized
+[2018.06.19-11.58.14:581][  0]BlueprintLog: New page: Editor Load
+[2018.06.19-11.58.14:672][  0]LocalizationService: Localization service is disabled
+[2018.06.19-11.58.14:796][  0]LogConsoleResponse: Display: 
+[2018.06.19-11.58.15:109][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.19-11.58.15:109][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.19-11.58.15:109][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.19-11.58.15:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.19-11.58.15:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.19-11.58.15:523][  0]LogFileCache: Scanning file cache for directory 'C:/Users/deads/Documents/Unreal Projects/FirstFPS/Content/' took 0.02s
+[2018.06.19-11.58.15:523][  0]SourceControl: Source control is disabled
+[2018.06.19-11.58.15:524][  0]Cmd: MAP LOAD FILE="../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.19-11.58.15:555][  0]LightingResults: New page: Lighting Build
+[2018.06.19-11.58.15:558][  0]MapCheck: New page: Map Check
+[2018.06.19-11.58.15:558][  0]LightingResults: New page: Lighting Build
+[2018.06.19-11.58.16:367][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9256c2e00, Size=704, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-11.58.16:700][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9256bf650, Size=80, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-11.58.16:755][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c907757968, Size=4, Default__DamageEffect_C Function /Game/ThirdPersonBP/Blueprints/DamageEffect.DamageEffect_C:ExecuteUbergraph_DamageEffect
+[2018.06.19-11.58.16:782][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9256aacc0, Size=112, Default__SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-11.58.17:291][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9256aacc0, Size=112
+[2018.06.19-11.58.17:291][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9256aacc0, Size=112, Default__SWAT_AnimBP_C Function /Engine/Transient.REINST_SWAT_AnimBP_C_0:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-11.58.17:291][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9256bf650, Size=80
+[2018.06.19-11.58.17:291][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c905e6d710, Size=80, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_2:ExecuteUbergraph_Weapon_Base
+[2018.06.19-11.58.17:291][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c907757968, Size=4
+[2018.06.19-11.58.17:291][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c907757968, Size=4, Default__DamageEffect_C Function /Engine/Transient.REINST_DamageEffect_C_0:ExecuteUbergraph_DamageEffect
+[2018.06.19-11.58.17:293][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9256c2e00, Size=704
+[2018.06.19-11.58.17:293][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c905e0df00, Size=704, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_3:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-11.58.17:322][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c906b11c20, Size=112, Default__SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-11.58.17:323][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c905cad9e0, Size=80, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-11.58.17:323][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c907755030, Size=4, Default__DamageEffect_C Function /Game/ThirdPersonBP/Blueprints/DamageEffect.DamageEffect_C:ExecuteUbergraph_DamageEffect
+[2018.06.19-11.58.17:328][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c906af1900, Size=704, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-11.58.17:517][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c90628d440, Size=32, Default__CubeMesh_Blueprint_C Function /Game/CubeMesh_Blueprint.CubeMesh_Blueprint_C:ExecuteUbergraph_CubeMesh_Blueprint
+[2018.06.19-11.58.17:520][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c90628d440, Size=32
+[2018.06.19-11.58.17:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c90628d440, Size=32, Default__CubeMesh_Blueprint_C Function /Engine/Transient.REINST_CubeMesh_Blueprint_C_14:ExecuteUbergraph_CubeMesh_Blueprint
+[2018.06.19-11.58.17:521][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c90628d780, Size=32, Default__CubeMesh_Blueprint_C Function /Game/CubeMesh_Blueprint.CubeMesh_Blueprint_C:ExecuteUbergraph_CubeMesh_Blueprint
+[2018.06.19-11.58.17:541][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c90626cd60, Size=72, Default__PainVolume_C Function /Game/ThirdPersonBP/Blueprints/PainVolume.PainVolume_C:ExecuteUbergraph_PainVolume
+[2018.06.19-11.58.17:546][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c90626cd60, Size=72
+[2018.06.19-11.58.17:546][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c90622bc90, Size=72, Default__PainVolume_C Function /Engine/Transient.REINST_PainVolume_C_16:ExecuteUbergraph_PainVolume
+[2018.06.19-11.58.17:548][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c90622a9d0, Size=72, Default__PainVolume_C Function /Game/ThirdPersonBP/Blueprints/PainVolume.PainVolume_C:ExecuteUbergraph_PainVolume
+[2018.06.19-11.58.19:288][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [53.856331ms] /Game/ThirdPersonBP/Blueprints/Character/Swat.Swat
+[2018.06.19-11.58.19:579][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [40.374866ms] /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/AK.AK
+[2018.06.19-11.58.20:235][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.19-11.58.20:248][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.19-11.58.20:313][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c905e0df00, Size=704
+[2018.06.19-11.58.20:313][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c905e6d710, Size=80
+[2018.06.19-11.58.20:313][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c907757968, Size=4
+[2018.06.19-11.58.20:313][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9256aacc0, Size=112
+[2018.06.19-11.58.20:314][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c90628d440, Size=32
+[2018.06.19-11.58.20:314][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c90622bc90, Size=72
+[2018.06.19-11.58.20:315][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.19-11.58.20:380][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64,869ms to complete.
+[2018.06.19-11.58.20:380][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.857
+[2018.06.19-11.58.20:471][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.19-11.58.20:471][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.19-11.58.20:835][  0]LogCollectionManager: Loaded 0 collections in 0.001860 seconds
+[2018.06.19-11.58.20:917][  0]LogFileCache: Scanning file cache for directory 'C:/Users/deads/Documents/Unreal Projects/FirstFPS/Saved/Collections/' took 0.01s
+[2018.06.19-11.58.20:917][  0]LogFileCache: Scanning file cache for directory 'C:/Users/deads/Documents/Unreal Projects/FirstFPS/Content/Developers/deads/Collections/' took 0.01s
+[2018.06.19-11.58.20:917][  0]LogFileCache: Scanning file cache for directory 'C:/Users/deads/Documents/Unreal Projects/FirstFPS/Content/Collections/' took 0.01s
+[2018.06.19-11.58.20:917][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.19-11.58.20:940][  0]LogContentBrowser: Native class hierarchy populated in 0.0208 seconds. Added 2452 classes and 558 folders.
+[2018.06.19-11.58.20:974][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.19-11.58.21:923][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.19-11.58.21:975][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.06.19-11.58.22:104][  0]LogSlate: Took 0.000858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.19-11.58.22:108][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.19-11.58.22:174][  0]LogSlate: Took 0.016706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.19-11.58.22:441][  0]LogRenderer: Reallocating scene render targets to support 1276x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.19-11.58.22:558][  0]LogSlate: Took 0.022336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.19-11.58.22:701][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.19-11.58.22:702][  0]LogLoad: (Engine Initialization) Total time: 20.81 seconds
+[2018.06.19-11.58.22:702][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.19-11.58.22:759][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.19-11.58.22:855][  1]LogAssetRegistry: Asset discovery search completed in 14.0407 seconds
+[2018.06.19-11.58.22:858][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.19-11.58.22:858][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2018.06.19-11.58.35:198][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-11.58.35:248][736]LogTemp: Repeating last play command: Standalone Game
+[2018.06.19-12.09.03:598][ 37]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.19-12.10.13:637][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-12.10.23:337][ 34]LogSlate: Took 0.000474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.19-12.10.23:490][ 34]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.19-12.10.24:521][ 34]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.19-12.10.24:575][ 34]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.06.19-12.10.25:071][ 34]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.06.19-12.10.25:488][ 34]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c994859cd8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.19-12.10.25:490][ 34]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c994859cd0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.19-12.10.26:220][ 34]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.19-12.10.26:711][ 34]LogSlate: Took 0.015944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.19-12.10.26:808][ 34]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.06.19-12.10.27:000][ 34]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.19-12.10.27:046][ 35]LogSlate: Took 0.013148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.19-12.11.35:716][384]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab8a7d10, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.12:223][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab8a7d10, Size=4
+[2018.06.19-12.12.12:223][480]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99ea361f8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_2:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.12:234][480]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99ea36de8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.12:698][501]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99ea36de8, Size=4
+[2018.06.19-12.12.12:698][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99ea36de8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_3:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.12:707][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99ea37a98, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.44:627][630]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99ea37a98, Size=4
+[2018.06.19-12.12.44:627][630]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99ea37a98, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_4:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.44:638][630]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99ea374f0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.49:140][894]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99ea374f0, Size=4
+[2018.06.19-12.12.49:140][894]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99a878ac8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_5:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.49:152][894]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99a87a308, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.56:370][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99a87a308, Size=4
+[2018.06.19-12.12.56:371][960]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9aa556ad0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_6:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.12.56:388][960]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9aa556a60, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.07:469][240]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9aa556a60, Size=4
+[2018.06.19-12.13.07:469][240]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9aa556a60, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_7:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.07:480][240]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9aa5561c0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.08:293][283]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9aa5561c0, Size=4
+[2018.06.19-12.13.08:293][283]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab8a58e8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_8:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.08:304][283]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab8a42b8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.09:969][377]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab8a42b8, Size=4
+[2018.06.19-12.13.09:969][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9aa554b80, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_9:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.09:979][377]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9aa556530, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.12:326][510]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9aa556530, Size=4
+[2018.06.19-12.13.12:326][510]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab610bd8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_10:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.12:337][510]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab610390, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.13:614][581]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab610390, Size=4
+[2018.06.19-12.13.13:614][581]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab610390, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_11:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.13:625][581]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab613cd0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.14:717][642]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab613cd0, Size=4
+[2018.06.19-12.13.14:717][642]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab8a7ef8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_12:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.13.14:727][642]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab612db0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.14.19:905][162]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab612db0, Size=4
+[2018.06.19-12.14.19:906][162]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab230b58, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_13:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.14.19:921][162]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab233e78, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.14.37:485][157]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab233e78, Size=4
+[2018.06.19-12.14.37:485][157]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab610180, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_14:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.14.37:492][157]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab612380, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.14.55:363][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab612380, Size=4
+[2018.06.19-12.14.55:363][180]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab2312c0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_15:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.14.55:377][180]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab230110, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.15.10:605][ 40]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab230110, Size=4
+[2018.06.19-12.15.10:605][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9a99ce460, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_16:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.15.10:618][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9a99ce930, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.15.24:966][825]BlueprintLog: New page: Compile SWAT_AnimBP
+[2018.06.19-12.15.24:987][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9a99ce930, Size=4
+[2018.06.19-12.15.24:987][825]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9a99ce930, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_17:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.15.25:011][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c906b11c20, Size=112
+[2018.06.19-12.15.25:011][825]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9a9a7b7b0, Size=112, Default__SWAT_AnimBP_C Function /Engine/Transient.REINST_SWAT_AnimBP_C_18:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.15.25:027][825]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ac370a30, Size=112, Default__SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.15.25:262][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99ea361f8, Size=4
+[2018.06.19-12.15.25:262][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99ea36de8, Size=4
+[2018.06.19-12.15.25:262][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99ea37a98, Size=4
+[2018.06.19-12.15.25:262][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99a878ac8, Size=4
+[2018.06.19-12.15.25:262][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9aa556ad0, Size=4
+[2018.06.19-12.15.25:262][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9aa556a60, Size=4
+[2018.06.19-12.15.25:262][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab8a58e8, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9aa554b80, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab610bd8, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab610390, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab8a7ef8, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab230b58, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab610180, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab2312c0, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9a99ce460, Size=4
+[2018.06.19-12.15.25:263][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9a99ce930, Size=4
+[2018.06.19-12.16.29:070][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9a9a7b7b0, Size=112
+[2018.06.19-12.16.29:071][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2018.06.19-12.16.29:142][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP] ([1] browsable assets)...
+[2018.06.19-12.16.29:160][142]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP]
+[2018.06.19-12.16.29:160][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP]
+[2018.06.19-12.16.29:355][142]LogSavePackage: Save=97.86ms
+[2018.06.19-12.16.29:355][142]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/SWAT_AnimBP_Auto1C05A442842A00ED2405B9998F7732F07.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP_Auto1.uasset'
+[2018.06.19-12.16.29:387][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP_Auto1.uasset
+[2018.06.19-12.16.29:387][142]LogFileHelpers: Auto-saving content packages took 0.314
+[2018.06.19-12.16.46:913][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-12.20.37:736][815]BlueprintLog: New page: Compile SWAT_AnimBP
+[2018.06.19-12.20.37:778][815]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ac370a30, Size=112
+[2018.06.19-12.20.37:778][815]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ac370a30, Size=112, Default__SWAT_AnimBP_C Function /Engine/Transient.REINST_SWAT_AnimBP_C_20:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.20.37:799][815]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9aaafcfe0, Size=200, Default__SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.06.19-12.20.44:516][195]LogTemp: Repeating last play command: Standalone Game
+[2018.06.19-12.20.44:591][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ac370a30, Size=112
+[2018.06.19-12.20.46:656][195]LogSlate: Window 'Save Content' being destroyed
+[2018.06.19-12.20.46:865][195]LogSavePackage: Save=95.17ms
+[2018.06.19-12.20.46:865][195]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/SWAT_AnimBP569287BB4AF53D8CEEC1008782482378.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset'
+[2018.06.19-12.20.46:895][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset
+[2018.06.19-12.24.10:046][856]LogSlate: Window 'SWAT_AnimBP' being destroyed
+[2018.06.19-12.25.34:164][211]LogSlate: Window 'Projectile_Base' being destroyed
+[2018.06.19-12.25.34:171][211]LogSlate: Window 'Projectile_Base' being destroyed
+[2018.06.19-12.28.16:189][785]LogTemp: Repeating last play command: Standalone Game
+[2018.06.19-12.28.17:830][785]LogSlate: Window 'Save Content' being destroyed
+[2018.06.19-12.28.17:911][785]LogSavePackage: Save=21.79ms
+[2018.06.19-12.28.17:911][785]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/Projectile_BaseEF0AB976479B41B8E4B59B840CE6C7FF.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/Projectile_Base.uasset'
+[2018.06.19-12.28.17:918][785]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/Projectile_Base.uasset
+[2018.06.19-12.30.12:807][529]LogRenderer: Reallocating scene render targets to support 1276x696 Format 10 NumSamples 1 (Frame:1).
+[2018.06.19-12.30.24:984][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-12.30.25:089][262]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d0510, Size=4, Default__SKEL_Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.SKEL_Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.30.31:972][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d0510, Size=4
+[2018.06.19-12.30.31:972][670]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d0510, Size=4, Default__SKEL_Weapon_Base_C Function /Engine/Transient.REINST_SKEL_Weapon_Base_C_56:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.30.31:973][670]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d1018, Size=4, Default__SKEL_Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.SKEL_Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.30.33:487][753]LogSlate: Took 0.011940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.19-12.30.34:896][831]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d1018, Size=4
+[2018.06.19-12.30.34:896][831]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d1018, Size=4, Default__SKEL_Weapon_Base_C Function /Engine/Transient.REINST_SKEL_Weapon_Base_C_58:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.30.34:898][831]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d3018, Size=4, Default__SKEL_Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.SKEL_Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.30.37:029][954]BlueprintLog: New page: Compile Weapon_Base
+[2018.06.19-12.30.37:034][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d3018, Size=4
+[2018.06.19-12.30.37:034][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d3018, Size=4, Default__SKEL_Weapon_Base_C Function /Engine/Transient.REINST_SKEL_Weapon_Base_C_60:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.30.37:049][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c905cad9e0, Size=80
+[2018.06.19-12.30.37:049][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c2022fc0, Size=80, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_64:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.30.37:051][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c20213a0, Size=80, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.30.37:423][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d3018, Size=4
+[2018.06.19-12.30.37:424][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d1018, Size=4
+[2018.06.19-12.30.37:424][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d0510, Size=4
+[2018.06.19-12.30.55:406][ 27]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d0778, Size=4, Default__SKEL_Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.SKEL_Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.01:325][379]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d0778, Size=4
+[2018.06.19-12.31.01:325][379]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d0778, Size=4, Default__SKEL_Weapon_Base_C Function /Engine/Transient.REINST_SKEL_Weapon_Base_C_68:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.01:326][379]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d06a8, Size=4, Default__SKEL_Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.SKEL_Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.04:342][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d06a8, Size=4
+[2018.06.19-12.31.04:342][553]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d06a8, Size=4, Default__SKEL_Weapon_Base_C Function /Engine/Transient.REINST_SKEL_Weapon_Base_C_70:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.04:343][553]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d11d8, Size=4, Default__SKEL_Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.SKEL_Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.06:106][655]BlueprintLog: New page: Compile Weapon_Base
+[2018.06.19-12.31.06:109][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d11d8, Size=4
+[2018.06.19-12.31.06:109][655]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c05d11d8, Size=4, Default__SKEL_Weapon_Base_C Function /Engine/Transient.REINST_SKEL_Weapon_Base_C_72:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.06:118][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c20213a0, Size=80
+[2018.06.19-12.31.06:118][655]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99a3278d0, Size=80, Weapon_Base_C_90 Function /Engine/Transient.REINST_Weapon_Base_C_76:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.06:121][655]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99a327a10, Size=80, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.06:425][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d06a8, Size=4
+[2018.06.19-12.31.06:425][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c2022fc0, Size=80
+[2018.06.19-12.31.06:425][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d0778, Size=4
+[2018.06.19-12.31.06:425][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c05d11d8, Size=4
+[2018.06.19-12.31.33:289][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.027
+[2018.06.19-12.31.33:333][258]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base] ([1] browsable assets)...
+[2018.06.19-12.31.33:350][258]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.Weapon_Base]
+[2018.06.19-12.31.33:350][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base]
+[2018.06.19-12.31.33:425][258]LogSavePackage: Save=59.69ms
+[2018.06.19-12.31.33:425][258]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/Weapon_Base_Auto2798F31F44F98D04041A62EB11E0CED3F.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base_Auto2.uasset'
+[2018.06.19-12.31.33:440][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base_Auto2.uasset
+[2018.06.19-12.31.33:440][258]LogFileHelpers: Auto-saving content packages took 0.150
+[2018.06.19-12.31.58:362][634]BlueprintLog: New page: Compile Weapon_Base
+[2018.06.19-12.31.58:373][634]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99a327a10, Size=80
+[2018.06.19-12.31.58:373][634]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab4832e0, Size=80, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_82:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.58:375][634]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9ab483100, Size=80, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.31.59:833][702]LogSlate: Window 'Weapon_Base*' being destroyed
+[2018.06.19-12.31.59:842][702]LogSlate: Window 'Weapon_Base*' being destroyed
+[2018.06.19-12.31.59:968][702]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.19-12.32.15:778][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-12.32.48:418][902]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c994ef39c8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.33.11:981][269]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c994ef39c8, Size=4
+[2018.06.19-12.33.11:981][269]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9942c75a0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_86:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.33.11:987][269]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9942c7c80, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.33.22:055][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9942c7c80, Size=4
+[2018.06.19-12.33.22:055][856]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9942c7c80, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_88:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.33.22:064][856]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9942c5cd8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.35.41:781][ 64]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.19-12.35.41:812][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9942c5cd8, Size=4
+[2018.06.19-12.35.41:812][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c995b76ea8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_92:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.35.41:821][ 64]LogBlueprint: Warning: [CubeMesh_Blueprint] 'PickUp' variable not found. Base class was probably changed. /Game/CubeMesh_Blueprint.CubeMesh_Blueprint
+[2018.06.19-12.35.41:869][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c906af1900, Size=704
+[2018.06.19-12.35.41:869][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99648ae00, Size=704, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_98:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.35.41:884][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c905e94700, Size=672, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.35.42:329][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c995b76ea8, Size=4
+[2018.06.19-12.35.52:792][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.35.53:935][685]LogTemp: Repeating last play command: Standalone Game
+[2018.06.19-12.35.53:984][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.35.55:473][685]LogSlate: Window 'Save Content' being destroyed
+[2018.06.19-12.35.55:491][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.35.55:616][685]LogSavePackage: Save=86.23ms
+[2018.06.19-12.35.55:616][685]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/ThirdPersonCharacter5A09178C4444A78F5330388AD311023B.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.19-12.35.55:622][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.19-12.35.55:680][685]LogSavePackage: Save=25.75ms
+[2018.06.19-12.35.55:680][685]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/Weapon_Base7ECEC43C490D9D9D69AB61BD73C04AFB.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.uasset'
+[2018.06.19-12.35.55:684][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.uasset
+[2018.06.19-12.35.55:999][685]LogSavePackage: Save=181.55ms
+[2018.06.19-12.35.55:999][685]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/ThirdPersonExampleMapD1A596FD49E4B4FCFBDCA8A39CBF3B2F.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.19-12.35.56:005][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.19-12.35.56:056][685]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.361
+[2018.06.19-12.36.19:134][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.36.40:254][ 46]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.19-12.36.40:286][ 46]LogBlueprint: Warning: [CubeMesh_Blueprint] 'PickUp' variable not found. Base class was probably changed. /Game/CubeMesh_Blueprint.CubeMesh_Blueprint
+[2018.06.19-12.36.40:324][ 46]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c905e94700, Size=672
+[2018.06.19-12.36.40:324][ 46]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c9c25b2e00, Size=672, ThirdPersonCharacter_C_44 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_112:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.36.40:335][ 46]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99814dc00, Size=672, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.19-12.36.40:752][ 46]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99a3278d0, Size=80
+[2018.06.19-12.36.40:752][ 46]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9942c75a0, Size=4
+[2018.06.19-12.36.40:753][ 46]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9942c7c80, Size=4
+[2018.06.19-12.36.40:753][ 46]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab4832e0, Size=80
+[2018.06.19-12.36.44:135][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.36.45:100][219]LogTemp: Repeating last play command: Standalone Game
+[2018.06.19-12.36.45:142][219]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9c25b2e00, Size=672
+[2018.06.19-12.36.45:150][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.36.46:416][219]LogSlate: Window 'Save Content' being destroyed
+[2018.06.19-12.36.46:431][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.36.46:551][219]LogSavePackage: Save=82.96ms
+[2018.06.19-12.36.46:551][219]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/ThirdPersonCharacterA564221A4D53D052BAC440BE5D0ED832.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.19-12.36.46:556][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.19-12.36.46:789][219]LogSavePackage: Save=136.29ms
+[2018.06.19-12.36.46:789][219]LogSavePackage: Moving '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Saved/ThirdPersonExampleMap29F509054275BF4BC91F789945C04A49.tmp' to '../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.19-12.36.46:795][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/deads/Documents/Unreal Projects/FirstFPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.19-12.36.46:830][219]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.268
+[2018.06.19-12.37.18:185][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-12.37.27:406][874]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.19-12.37.27:418][874]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.06.19-12.37.27:529][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.37.27:604][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c90628d780, Size=32
+[2018.06.19-12.37.27:604][874]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c995ab0700, Size=32, Default__CubeMesh_Blueprint_C Function /Engine/Transient.REINST_CubeMesh_Blueprint_C_118:ExecuteUbergraph_CubeMesh_Blueprint
+[2018.06.19-12.37.29:114][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c99648ae00, Size=704
+[2018.06.19-12.37.29:248][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c995ab0700, Size=32
+[2018.06.19-12.37.32:595][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.37.35:510][243]MapCheck: New page: Map Check
+[2018.06.19-12.37.35:537][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.37.35:541][243]Cmd: MAP REBUILD ALLVISIBLE
+[2018.06.19-12.37.35:541][243]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.06.19-12.37.35:713][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.06.19-12.37.35:820][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.06.19-12.37.35:827][243]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.19-12.37.35:827][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HelpActorMaterial, compiling. 
+[2018.06.19-12.37.35:833][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RampMaterial, compiling. 
+[2018.06.19-12.37.35:839][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.06.19-12.37.35:846][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.06.19-12.37.35:852][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soldier_body1, compiling. 
+[2018.06.19-12.37.35:858][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soldier_head6, compiling. 
+[2018.06.19-12.37.35:865][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.06.19-12.37.44:148][243]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.19-12.37.44:148][243]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.19-12.37.44:148][243]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.19-12.37.44:148][243]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.19-12.37.44:148][243]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.19-12.37.44:148][243]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.19-12.37.44:148][243]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.19-12.37.44:148][243]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.19-12.37.44:148][243]TextureStreamingBuild: Display: Compiling optional shaders took 8.455 seconds.
+[2018.06.19-12.37.44:228][243]LogLevel: Display: Export Material TexCoord Scales took 0.080 seconds.
+[2018.06.19-12.37.44:248][243]TextureStreamingBuild: Display: Build Texture Streaming took 0.019 seconds.
+[2018.06.19-12.37.44:320][243]LightingResults: New page: Lighting Build - 19.06.2018 16:37:44
+[2018.06.19-12.37.44:557][243]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.06.19-12.37.44:768][243]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.06.19-12.37.44:780][243]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.06.19-12.37.46:971][243]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.06.19-12.37.47:010][243]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:8008
+
+Server stack trace: 
+   bei System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   bei System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   bei System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   bei System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   bei System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   bei System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   bei System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   bei NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   bei NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.06.19-12.37.52:096][243]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.06.19-12.37.52:096][243]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18900
+[2018.06.19-12.37.53:448][243]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.06.19-12.37.53:448][243]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.06.19-12.37.53:448][243]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.06.19-12.37.53:448][243]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.06.19-12.37.53:448][243]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.06.19-12.37.53:763][243]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.06.19-12.37.53:763][243]MapCheck: New page: ThirdPersonExampleMap - 19.06.2018 16:37:53
+[2018.06.19-12.37.53:887][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 124,334ms to complete.
+[2018.06.19-12.37.53:910][243]LogEditorBuildUtils: Build time 0:18
+[2018.06.19-12.38.00:181][536]Job is a success!
+[2018.06.19-12.38.00:302][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.38.00:348][537]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2018.06.19-12.38.00:348][537]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.06.19-12.38.00:348][537]LogVolumetricLightmapImport:      BrickData 235x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.06.19-12.38.00:348][537]LogVolumetricLightmapImport:      Bricks at Level
+[2018.06.19-12.38.00:348][537]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2018.06.19-12.38.00:348][537]LogVolumetricLightmapImport:          1: 8.5% covering 6.3% of volume
+[2018.06.19-12.38.00:349][537]LogVolumetricLightmapImport:          2: 89.4% covering 1.0% of volume
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.06.19-12.38.01:003][537]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.06.19-12.38.01:202][537]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.06.19-12.38.01:271][537]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.06.19-12.38.01:331][537]Lightmass on DESKTOP-3Q2M6I3: 5.74 sec total, 294 ms importing, 19 ms setup, 1.29 sec photons, 4.10 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 28.5 sec total, 9.88 sec processing.
+[2018.06.19-12.38.01:404][537]LogStaticLightingSystem: Illumination: 17.0 sec (574 ms encoding lightmaps, 263 ms encoding shadowmaps)
+[2018.06.19-12.38.01:405][537]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.06.19-12.38.01:405][537]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.06.19-12.38.01:478][537]DumpUnbuiltLightIteractions
+[2018.06.19-12.38.01:479][537]Lights with unbuilt interactions: 0
+[2018.06.19-12.38.01:479][537]
+[2018.06.19-12.38.01:479][537]Primitives with unbuilt interactions: 0
+[2018.06.19-12.38.01:486][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.19-12.38.01:552][538]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.06.19-12.38.01:552][538]MapCheck: New page: ThirdPersonExampleMap - 19.06.2018 16:38:01
+[2018.06.19-12.38.01:625][538]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72,371ms to complete.
+[2018.06.19-12.38.44:820][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.19-12.39.50:071][118]BlueprintLog: New page: Compile Weapon_Base
+[2018.06.19-12.39.50:113][118]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c9ab483100, Size=80
+[2018.06.19-12.39.50:113][118]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c99821b150, Size=80, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_124:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.39.50:115][118]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c998219530, Size=80, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK-47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.06.19-12.39.52:422][227]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.06.19-12.39.53:141][227]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.714 s
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: === Handled ensure: ===
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: 
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: Stack: 
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000006CA0B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000006C76AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000006C77ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x0000000043B73DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000593BB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000412FC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000411877AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000004118AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000412C6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000610B6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000610BBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000612EC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x0000000061110475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000610E8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000610DB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000007A06E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000007A061B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000007A07052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000007A05D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000B1BFBC50 USER32.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000B1BFB5CF USER32.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x000000007A071666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000DF2E5475 UE4Editor.exe!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000DF2F6BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000DF2F6C4A UE4Editor.exe!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000DF304177 UE4Editor.exe!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000DF305B87 UE4Editor.exe!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000B2BE2774 KERNEL32.DLL!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: [Callstack] 0x00000000B2E80D51 ntdll.dll!UnknownFunction []
+[2018.06.19-12.39.53:141][227]LogOutputDevice: Error: 
+[2018.06.19-12.39.53:142][227]LogStats:                SubmitErrorReport -  0.000 s
